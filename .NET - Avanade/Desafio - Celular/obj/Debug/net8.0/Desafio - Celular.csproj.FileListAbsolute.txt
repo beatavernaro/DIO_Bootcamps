@@ -1,0 +1,15 @@
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\bin\Debug\net8.0\Desafio - Celular.exe
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\bin\Debug\net8.0\Desafio - Celular.deps.json
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\bin\Debug\net8.0\Desafio - Celular.runtimeconfig.json
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\bin\Debug\net8.0\Desafio - Celular.dll
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\bin\Debug\net8.0\Desafio - Celular.pdb
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.AssemblyInfoInputs.cache
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.AssemblyInfo.cs
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.csproj.CoreCompileInputs.cache
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.sourcelink.json
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.dll
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\refint\Desafio - Celular.dll
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.pdb
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\Desafio - Celular.genruntimeconfig.cache
+C:\Users\Bea\Documents\Codigos\DIO\DIO_Bootcamps\.NET - Avanade\Desafio - Celular\obj\Debug\net8.0\ref\Desafio - Celular.dll
