@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bea\\Documents\\Codigos\\DIO\\.NET - Avanede\\Desafio - Estacionamento\\Desafio - Estacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\Bea\\Documents\\Codigos\\DIO\\DIO_Bootcamps\\.NET - Avanade\\Desafio - Estacionamento\\Desafio - Estacionamento.csproj",
       "projectName": "Desafio - Estacionamento",
-      "projectPath": "C:\\Users\\Bea\\Documents\\Codigos\\DIO\\.NET - Avanede\\Desafio - Estacionamento\\Desafio - Estacionamento.csproj",
+      "projectPath": "C:\\Users\\Bea\\Documents\\Codigos\\DIO\\DIO_Bootcamps\\.NET - Avanade\\Desafio - Estacionamento\\Desafio - Estacionamento.csproj",
       "packagesPath": "C:\\Users\\Bea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bea\\Documents\\Codigos\\DIO\\.NET - Avanede\\Desafio - Estacionamento\\obj\\",
+      "outputPath": "C:\\Users\\Bea\\Documents\\Codigos\\DIO\\DIO_Bootcamps\\.NET - Avanade\\Desafio - Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bea\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
