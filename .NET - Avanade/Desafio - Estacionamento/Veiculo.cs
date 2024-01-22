@@ -1,8 +1,14 @@
 public class Veiculo
 {
-    private List<string> listaCarros = [];
-    private decimal valorFixo = 10.00M;
-    private decimal valorHora = 2.00M;
+    private List<string> ListaCarros = [];
+    private decimal ValorFixo { get; set; }
+    private decimal ValorHora { get; set; }
+
+    public Veiculo(decimal valorFixo, decimal valorHora)
+    {
+        ValorFixo = valorFixo;
+        ValorHora = valorHora;
+    }
 
     public void AdicionarVeiculo()
     {
@@ -13,13 +19,13 @@ public class Veiculo
         {
             Console.WriteLine("Digite uma placa válida!");
         }
-        else if (listaCarros.Contains(novaPlaca))
+        else if (ListaCarros.Contains(novaPlaca))
         {
             Console.WriteLine("Veiculo já estacionado!");
         }
         else
         {
-            listaCarros.Add(novaPlaca);
+            ListaCarros.Add(novaPlaca);
             Console.WriteLine("Veiculo adicionado com sucesso!");
         }
     }
@@ -28,17 +34,19 @@ public class Veiculo
     {
         Console.WriteLine("Digite a placa do veiculo: ");
         string? placa = Console.ReadLine();
-        if (listaCarros.Contains(placa))
+
+        if (ListaCarros.Contains(placa))
         {
             Console.WriteLine("Digite a quantidade de horas: ");
-            if (!int.TryParse(Console.ReadLine(), out int horas))
+            if (int.TryParse(Console.ReadLine(), out int horas))
             {
-                Console.WriteLine("Digite um número válido!");
-                return;
+                Console.WriteLine(CalculaValor(horas));
+                ListaCarros.Remove(placa);
+                Console.WriteLine("Digite qualquer tecla para voltar.");
+                Console.ReadKey();
             }
-
-            Console.WriteLine(CalculaValor(horas));
-            listaCarros.Remove(placa);
+            else
+                Console.WriteLine("Digite um número válido!");
         }
         else
         {
@@ -48,20 +56,19 @@ public class Veiculo
 
     public string CalculaValor(int horas)
     {
-        decimal valorTotal = valorFixo + (horas * valorHora);
+        decimal valorTotal = ValorFixo + (horas * ValorHora);
         return $"Valor Total: {valorTotal.ToString("c")}";
-
     }
 
     public void ListarVeiculos()
     {
-        if (listaCarros.Count == 0)
+        if (ListaCarros.Count == 0)
         {
-            Console.WriteLine("Não há veículos cadastrados! ");
+            Console.WriteLine("Não há veículos cadastrados!");
             return;
         }
 
-        foreach (string veiculo in listaCarros)
+        foreach (string veiculo in ListaCarros)
         {
             Console.WriteLine(veiculo);
         }
