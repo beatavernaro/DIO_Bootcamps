@@ -1,0 +1,14 @@
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\bin\Debug\net8.0\ReservaHotelDIO.exe
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\bin\Debug\net8.0\ReservaHotelDIO.deps.json
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\bin\Debug\net8.0\ReservaHotelDIO.runtimeconfig.json
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\bin\Debug\net8.0\ReservaHotelDIO.dll
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\bin\Debug\net8.0\ReservaHotelDIO.pdb
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.AssemblyInfoInputs.cache
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.AssemblyInfo.cs
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.csproj.CoreCompileInputs.cache
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.dll
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\refint\ReservaHotelDIO.dll
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.pdb
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ReservaHotelDIO.genruntimeconfig.cache
+C:\Users\b.tavernaro.cardoso\OneDrive - Avanade\Documents\Code\DIO\ReservaHotelDIO\obj\Debug\net8.0\ref\ReservaHotelDIO.dll

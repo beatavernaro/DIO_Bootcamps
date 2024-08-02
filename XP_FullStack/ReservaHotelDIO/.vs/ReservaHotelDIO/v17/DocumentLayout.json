@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|c:\\users\\b.tavernaro.cardoso\\onedrive - avanade\\documents\\code\\dio\\reservahoteldio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|c:\\users\\b.tavernaro.cardoso\\onedrive - avanade\\documents\\code\\dio\\reservahoteldio\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|c:\\users\\b.tavernaro.cardoso\\onedrive - avanade\\documents\\code\\dio\\reservahoteldio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|c:\\users\\b.tavernaro.cardoso\\onedrive - avanade\\documents\\code\\dio\\reservahoteldio\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C5FE-6633-41E2-801E-FB1B0E693D8C}|ReservaHotelDIO.csproj|solutionrelative:models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suite.cs",
+              "DocumentMoniker": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Models\\Suite.cs",
+              "RelativeDocumentMoniker": "Models\\Suite.cs",
+              "ToolTip": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Models\\Suite.cs",
+              "RelativeToolTip": "Models\\Suite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:28:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:26:59.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:01:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\b.tavernaro.cardoso\\OneDrive - Avanade\\Documents\\Code\\DIO\\ReservaHotelDIO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:57:46.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
